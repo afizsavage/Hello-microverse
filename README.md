@@ -1,76 +1,58 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> One paragraph statement about the project.
+> A simple HTML and CSS project built to master Microverse teams tools and best practices.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app_shot.png)
 
-Additional description about the project and its features.
+The project has a header with a "Hello Microverse" heading.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML, CSS
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Node v12 updards
+
+- Lighthouse
+
+- Webhint
+
+- Stylelint
+
 ### Setup
 
-### Install
+1.  Open a terminal, navigate to the directory that you would like to clone the repository into using commands like:
 
-### Usage
+    - `cd /pathname` to change your working directory.
 
-### Run tests
+2.  Next, clone the remote repository and create a local copy on your machine using this command:
 
-### Deployment
+    - `git clone https://github.com/afizsavage/Hello-microverse.git`
 
+3.  Now you can see the contents of the remote repository on your machine by moving into the newly cloned directory:
 
+    - `cd Hello-microverse`
+    - `ls -la`
 
-## Authors
+### Run
 
-👤 **Author1**
+Open the index.html file in the a browser
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## Author
 
-👤 **Author2**
+👤 **Afiz Savage**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+- GitHub: [@githubhandle](https://github.com/afizsavage)
+- Twitter: [@twitterhandle](https://twitter.com/fizzo_geek)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/afiz-savage-3b91a21ba/)
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
